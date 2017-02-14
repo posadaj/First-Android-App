@@ -11,7 +11,6 @@ import android.webkit.WebViewClient;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-    // Protip: Prefix keys with app's package name to keep keys unique if apps interact
     public final static String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
 
     @Override
